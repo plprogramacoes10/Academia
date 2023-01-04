@@ -1,0 +1,27 @@
+
+html{
+    scroll-behavior: smooth;
+        }
+
+
+body{
+    background-color: blue;
+}
+
+menu, footer{
+    background-color: darkred;
+    padding: 2%;
+}
+
+itens_Menu{
+    padding-top: 2%;
+    line-height: 1.5em;
+    text-align: center;
+    font-size: 1.3em;
+
+    
+}
+
+.img_topo{
+    width: 50%;
+}
